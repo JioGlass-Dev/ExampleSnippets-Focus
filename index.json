@@ -1,0 +1,22 @@
+{
+  "api/Global.FocusManager.html": {
+    "href": "api/Global.FocusManager.html",
+    "title": "Class FocusManager | JMR Samples",
+    "keywords": "Class FocusManager Example of using focus- On focus changes color to green, On focus exit changes color to gray. Inheritance Object FocusManager Implements IFocusable Namespace : Global Assembly : cs.temp.dll.dll Syntax public class FocusManager : MonoBehaviour, IFocusable Remarks No need to add global listener here because focus is done for the particular gameobject. Fields ThisMaterial the material assigned to this gameobject mesh Declaration public Material ThisMaterial Field Value Type Description Material Methods OnFocusEnter() Sets the material color to green. Declaration public void OnFocusEnter() Remarks Gets called when laser pointer focuses on the gameobject. OnFocusExit() Sets the material color to gray. Declaration public void OnFocusExit() Remarks Gets called when laser pointer exits focus from the gameobject. Start() Get the material assigned to this gameobject. Declaration public void Start() Implements IFocusable"
+  },
+  "api/Global.html": {
+    "href": "api/Global.html",
+    "title": "Namespace Global | JMR Samples",
+    "keywords": "Namespace Global Classes FocusManager Example of using focus- On focus changes color to green, On focus exit changes color to gray."
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "ExampleSnippets-Focus | JMR Samples",
+    "keywords": "ExampleSnippets-Focus Usage Exapmle of OnFocusEnter and OnFocusExit"
+  },
+  "manual/JMRSamples.html": {
+    "href": "manual/JMRSamples.html",
+    "title": "Sample | JMR Samples",
+    "keywords": "Sample"
+  }
+}
