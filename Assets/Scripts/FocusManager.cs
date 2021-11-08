@@ -3,7 +3,8 @@ using JMRSDK.InputModule;
 
 /// <summary>
 /// Example of using focus-
-/// On focus changes color to green,
+/// 
+/// On focus enter changes color to green,
 /// On focus exit changes color to gray.
 /// </summary>
 /// <remarks>
@@ -12,7 +13,7 @@ using JMRSDK.InputModule;
 public class FocusManager : MonoBehaviour, IFocusable
 {
     /// <summary>
-    /// the material assigned to this gameobject mesh
+    /// The material assigned to this gameobject mesh
     /// </summary>
     [HideInInspector] public Material ThisMaterial;
     
@@ -25,10 +26,10 @@ public class FocusManager : MonoBehaviour, IFocusable
     }
 
     ///<summary>
-    /// Sets the material color to green.
+    /// Gets called when laser pointer focuses on the gameobject.
     /// </summary>
     /// <remarks>
-    /// Gets called when laser pointer focuses on the gameobject.
+    /// Sets the material color to green.
     /// </remarks>
     public void OnFocusEnter()
     {
@@ -36,10 +37,10 @@ public class FocusManager : MonoBehaviour, IFocusable
     }
 
     /// <summary>
-    /// Sets the material color to gray.
+    /// Gets called when laser pointer exits focus from the gameobject.
     /// </summary>
     /// <remarks>
-    /// Gets called when laser pointer exits focus from the gameobject.
+    /// Sets the material color to gray.
     /// </remarks>
     public void OnFocusExit()
     {
