@@ -1,62 +1,60 @@
 ### YamlMime:XRefMap
 sorted: true
 references:
-- uid: Global
-  name: Global
-  href: api/Global.html
-  name.vb: ''
-  fullName: Global
-  fullName.vb: ''
-  nameWithType: Global
-  nameWithType.vb: ''
-- uid: Global.FocusManager
+- uid: JMRSDKExampleSnippets
+  name: JMRSDKExampleSnippets
+  href: api/JMRSDKExampleSnippets.html
+  commentId: N:JMRSDKExampleSnippets
+  fullName: JMRSDKExampleSnippets
+  nameWithType: JMRSDKExampleSnippets
+- uid: JMRSDKExampleSnippets.FocusManager
   name: FocusManager
-  href: api/Global.FocusManager.html
-  commentId: T:Global.FocusManager
-  fullName: FocusManager
+  href: api/JMRSDKExampleSnippets.FocusManager.html
+  commentId: T:JMRSDKExampleSnippets.FocusManager
+  fullName: JMRSDKExampleSnippets.FocusManager
   nameWithType: FocusManager
-- uid: Global.FocusManager.OnFocusEnter
+- uid: JMRSDKExampleSnippets.FocusManager.OnFocusEnter
   name: OnFocusEnter()
-  href: api/Global.FocusManager.html#Global_FocusManager_OnFocusEnter
-  commentId: M:Global.FocusManager.OnFocusEnter
-  fullName: FocusManager.OnFocusEnter()
+  href: api/JMRSDKExampleSnippets.FocusManager.html#JMRSDKExampleSnippets_FocusManager_OnFocusEnter
+  commentId: M:JMRSDKExampleSnippets.FocusManager.OnFocusEnter
+  fullName: JMRSDKExampleSnippets.FocusManager.OnFocusEnter()
   nameWithType: FocusManager.OnFocusEnter()
-- uid: Global.FocusManager.OnFocusEnter*
+- uid: JMRSDKExampleSnippets.FocusManager.OnFocusEnter*
   name: OnFocusEnter
-  href: api/Global.FocusManager.html#Global_FocusManager_OnFocusEnter_
-  commentId: Overload:Global.FocusManager.OnFocusEnter
+  href: api/JMRSDKExampleSnippets.FocusManager.html#JMRSDKExampleSnippets_FocusManager_OnFocusEnter_
+  commentId: Overload:JMRSDKExampleSnippets.FocusManager.OnFocusEnter
   isSpec: "True"
-  fullName: FocusManager.OnFocusEnter
+  fullName: JMRSDKExampleSnippets.FocusManager.OnFocusEnter
   nameWithType: FocusManager.OnFocusEnter
-- uid: Global.FocusManager.OnFocusExit
+- uid: JMRSDKExampleSnippets.FocusManager.OnFocusExit
   name: OnFocusExit()
-  href: api/Global.FocusManager.html#Global_FocusManager_OnFocusExit
-  commentId: M:Global.FocusManager.OnFocusExit
-  fullName: FocusManager.OnFocusExit()
+  href: api/JMRSDKExampleSnippets.FocusManager.html#JMRSDKExampleSnippets_FocusManager_OnFocusExit
+  commentId: M:JMRSDKExampleSnippets.FocusManager.OnFocusExit
+  fullName: JMRSDKExampleSnippets.FocusManager.OnFocusExit()
   nameWithType: FocusManager.OnFocusExit()
-- uid: Global.FocusManager.OnFocusExit*
+- uid: JMRSDKExampleSnippets.FocusManager.OnFocusExit*
   name: OnFocusExit
-  href: api/Global.FocusManager.html#Global_FocusManager_OnFocusExit_
-  commentId: Overload:Global.FocusManager.OnFocusExit
+  href: api/JMRSDKExampleSnippets.FocusManager.html#JMRSDKExampleSnippets_FocusManager_OnFocusExit_
+  commentId: Overload:JMRSDKExampleSnippets.FocusManager.OnFocusExit
   isSpec: "True"
-  fullName: FocusManager.OnFocusExit
+  fullName: JMRSDKExampleSnippets.FocusManager.OnFocusExit
   nameWithType: FocusManager.OnFocusExit
-- uid: Global.FocusManager.Start
+- uid: JMRSDKExampleSnippets.FocusManager.Start
   name: Start()
-  href: api/Global.FocusManager.html#Global_FocusManager_Start
-  commentId: M:Global.FocusManager.Start
-  fullName: FocusManager.Start()
+  href: api/JMRSDKExampleSnippets.FocusManager.html#JMRSDKExampleSnippets_FocusManager_Start
+  commentId: M:JMRSDKExampleSnippets.FocusManager.Start
+  fullName: JMRSDKExampleSnippets.FocusManager.Start()
   nameWithType: FocusManager.Start()
-- uid: Global.FocusManager.Start*
+- uid: JMRSDKExampleSnippets.FocusManager.Start*
   name: Start
-  href: api/Global.FocusManager.html#Global_FocusManager_Start_
-  commentId: Overload:Global.FocusManager.Start
+  href: api/JMRSDKExampleSnippets.FocusManager.html#JMRSDKExampleSnippets_FocusManager_Start_
+  commentId: Overload:JMRSDKExampleSnippets.FocusManager.Start
   isSpec: "True"
-  fullName: FocusManager.Start
+  fullName: JMRSDKExampleSnippets.FocusManager.Start
   nameWithType: FocusManager.Start
-- uid: Global.FocusManager.ThisMaterial
+- uid: JMRSDKExampleSnippets.FocusManager.ThisMaterial
   name: ThisMaterial
-  href: api/Global.FocusManager.html#Global_FocusManager_ThisMaterial
-  commentId: F:Global.FocusManager.ThisMaterial
-  fullName: FocusManager.ThisMaterial
+  href: api/JMRSDKExampleSnippets.FocusManager.html#JMRSDKExampleSnippets_FocusManager_ThisMaterial
+  commentId: F:JMRSDKExampleSnippets.FocusManager.ThisMaterial
+  fullName: JMRSDKExampleSnippets.FocusManager.ThisMaterial
   nameWithType: FocusManager.ThisMaterial

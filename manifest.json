@@ -24,11 +24,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Global.FocusManager.yml",
+      "source_relative_path": "api/JMRSDKExampleSnippets.FocusManager.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Global.FocusManager.html",
-          "hash": "Q5GmkeJQKCACQQN/Oh6Lz6sTyd+Q6q8rf044+o6qC/A="
+          "relative_path": "api/JMRSDKExampleSnippets.FocusManager.html",
+          "hash": "XbNtUkY7ZLTTsafk/qPZw6uPi4hYVNXakKkMzFE73kY="
         }
       },
       "is_incremental": false,
@@ -36,11 +36,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Global.yml",
+      "source_relative_path": "api/JMRSDKExampleSnippets.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Global.html",
-          "hash": "v7E8DaTT5Pp8ZAbu5py8OrOp1/bKzohGx0Zj8bz5IR0="
+          "relative_path": "api/JMRSDKExampleSnippets.html",
+          "hash": "UuahlGKMVDvsXa5qAew+2Yxq5udNed/nAwUynsV6RJA="
         }
       },
       "is_incremental": false,
@@ -52,7 +52,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "p3HSvHxPr2ra4vyF2Zo0vkzYHezdV+NyVgf2ROP4N2E="
+          "hash": "kHVuQZPdzJV/9tnIfef6NgIGm0lfJvMRptoW+v/r0HI="
         }
       },
       "is_incremental": false,
@@ -122,7 +122,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "rrR0eC1eu3goU4dd7WAIKO6q6rkPOhow6WVtYX2krXI="
+          "hash": "NYNnOJZ88KMB8rBXpBhhfXgGpwLXtPTqZ0vJglRZl+8="
         }
       },
       "is_incremental": false,
