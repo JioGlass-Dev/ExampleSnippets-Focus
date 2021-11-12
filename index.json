@@ -11,8 +11,8 @@
   },
   "index.html": {
     "href": "index.html",
-    "title": "ExampleSnippets-Focus | JMR Samples",
-    "keywords": "ExampleSnippets-Focus Usage Exapmle of OnFocusEnter and OnFocusExit"
+    "title": "Focus | JMR Samples",
+    "keywords": "Focus Usage Exapmle of OnFocusEnter and OnFocusExit Scripts FocusManager.cs Shows example of accessing callbacks called during focus enter and focus exit. Interfaces to implement focus funtionality cs public class FocusManager : MonoBehaviour, IFocusable Methods to implement focus funtionality cs public void OnFocusEnter() { } public void OnFocusEnter() { } How to use? Download and unzip this project. Open the project using Unity Hub. Download and import the latest version of JMRSDK package. Open and play the Focus scene from Assets/Scenes folder."
   },
   "manual/JMRSamples.html": {
     "href": "manual/JMRSamples.html",
